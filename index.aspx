@@ -28,6 +28,7 @@ $.ajax(settings).done(function (response) {
                                 <span>Get Quality Item & Goods</span>
                                 <h1 class="title">IT Solutions</h1>
                                 <p>Make your products with good & professionals</p>
+                                <p>kaival</p>
                             </div>
                         </div>
                     </div>
