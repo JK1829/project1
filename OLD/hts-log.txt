@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 07 Feb 2020 11:04:10 at https://gizmoder.com/demo/html/omnivus/omnivus/index-4.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://gizmoder.com/demo/html/omnivus/omnivus/index-4.html -O1 "C:\My Web Sites\software com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-brands-400.eot
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-brands-400.eot?
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-brands-400.woff2
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-brands-400.woff
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-brands-400.ttf
+11:06:42	Error: 	"Not Found" (404) at link https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-brands-400.svg (from https://gizmoder.com/demo/html/omnivus/omnivus/assets/css/all.css)
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-light-300.eot
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-light-300.eot?
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-light-300.woff2
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-light-300.woff
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-light-300.ttf
+11:06:42	Error: 	"Not Found" (404) at link https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-light-300.svg (from https://gizmoder.com/demo/html/omnivus/omnivus/assets/css/all.css)
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-regular-400.eot
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-regular-400.eot?
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-regular-400.woff2
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-regular-400.woff
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-regular-400.ttf
+11:06:42	Error: 	"Not Found" (404) at link https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-regular-400.svg (from https://gizmoder.com/demo/html/omnivus/omnivus/assets/css/all.css)
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-solid-900.eot
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-solid-900.eot?
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-solid-900.woff2
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-solid-900.woff
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-solid-900.ttf
+11:06:42	Error: 	"Not Found" (404) at link https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/fa-solid-900.svg (from https://gizmoder.com/demo/html/omnivus/omnivus/assets/css/all.css)
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/GilroyBold.eot
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/GilroyBold.woff2
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/GilroyBold.woff
+11:06:42	Warning: 	File not parsed, looks like binary: https://gizmoder.com/demo/html/omnivus/omnivus/assets/fonts/GilroyBold.ttf
+11:06:42	Error: 	"Not Found" (404) at link https://gizmoder.com/demo/html/omnivus/omnivus/www.youtube.com/watch?v=TdSA7gkVYU0 (from https://gizmoder.com/demo/html/omnivus/omnivus/index-2.html)
+11:06:42	Error: 	"Not Found" (404) at link https://gizmoder.com/demo/html/omnivus/omnivus/popper.js (from https://gizmoder.com/demo/html/omnivus/omnivus/assets/js/bootstrap.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 32 seconds : 284 links scanned, 277 files written (13788708 bytes overall) [12663193 bytes received at 83310 bytes/sec], 1621689 bytes transferred using HTTP compression in 56 files, ratio 18%, 35.5 requests per connection
+(6 errors, 24 warnings, 0 messages)
